@@ -1,7 +1,7 @@
 {
     "version":            "1.3",
     "project_name":       "BuzzCar",
-    "project_version":    "3816208-dirty",
+    "project_version":    "2b7cb54-dirty",
     "project_path":       "C:/Users/prath/OneDrive/Documents/GitHub/ECE3011/ECE-3011_TeamB05-Buzzcar",
     "idf_path":           "C:/Users/prath/.platformio/packages/framework-espidf",
     "build_dir":          "C:/Users/prath/OneDrive/Documents/GitHub/ECE3011/ECE-3011_TeamB05-Buzzcar/.pio/build/esp32-c6-devkitm-1",
