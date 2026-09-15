@@ -1,0 +1,1658 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "bootloader.elf"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"project",
+			"target_link_options",
+			"set_property",
+			"idf_build_executable",
+			"target_link_libraries",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"C:/Users/prath/.platformio/packages/framework-espidf/tools/cmake/project.cmake",
+			"CMakeLists.txt",
+			"C:/Users/prath/.platformio/packages/framework-espidf/tools/cmake/build.cmake",
+			"C:/Users/prath/.platformio/packages/framework-espidf/components/hal/CMakeLists.txt",
+			"C:/Users/prath/.platformio/packages/framework-espidf/components/esp_bootloader_format/CMakeLists.txt",
+			"C:/Users/prath/.platformio/packages/framework-espidf/components/bootloader_support/CMakeLists.txt",
+			"C:/Users/prath/.platformio/packages/framework-espidf/components/esp_system/CMakeLists.txt",
+			"C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/CMakeLists.txt",
+			"main/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 931,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 997,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 999,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1001,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1009,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1016,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 1101,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 866,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 58,
+				"parent" : 38
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 4,
+				"line" : 13,
+				"parent" : 40
+			},
+			{
+				"file" : 5
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 235,
+				"parent" : 42
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 6,
+				"line" : 136,
+				"parent" : 44
+			},
+			{
+				"command" : 5,
+				"file" : 6,
+				"line" : 138,
+				"parent" : 44
+			},
+			{
+				"file" : 7
+			},
+			{
+				"command" : 5,
+				"file" : 7,
+				"line" : 213,
+				"parent" : 47
+			},
+			{
+				"command" : 5,
+				"file" : 7,
+				"line" : 217,
+				"parent" : 47
+			},
+			{
+				"file" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 8,
+				"line" : 7,
+				"parent" : 50
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 932,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 987,
+				"parent" : 1
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "@\"C:/Users/prath/OneDrive/Documents/GitHub/ECE3011/ECE-3011_TeamB05-Buzzcar/.pio/build/esp32-c6-devkitm-1/bootloader/toolchain/cflags\" -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 10,
+					"define" : "SOC_MMU_PAGE_SIZE=CONFIG_MMU_PAGE_SIZE"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "SOC_XTAL_FREQ_MHZ=CONFIG_XTAL_FREQ"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/hal/platform_port/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/hal/esp32c6/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/hal/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/OneDrive/Documents/GitHub/ECE3011/ECE-3011_TeamB05-Buzzcar/.pio/build/esp32-c6-devkitm-1/bootloader/config"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/log/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_rom/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_rom/esp32c6/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_rom/esp32c6/include/esp32c6"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_rom/esp32c6"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_common/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/include/soc"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/ldo/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/debug_probe/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/etm/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/mspi/mspi_timing_tuning/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/mspi/mspi_timing_tuning/tuning_scheme_impl/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/mspi/mspi_intr/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/power_supply/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/modem/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/port/esp32c6/."
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/port/esp32c6/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hw_support/port/esp32c6/private_include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_libc/platform_include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/riscv/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_gpio/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_gpio/esp32c6/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/soc/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/soc/esp32c6"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/soc/esp32c6/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/soc/esp32c6/register"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_usb/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_usb/esp32c6/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_pmu/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_pmu/esp32c6/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_regi2c/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_regi2c/esp32c6/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_uart/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_uart/esp32c6/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_ana_conv/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_ana_conv/esp32c6/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_dma/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_dma/esp32c6/include"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_gpspi/include"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_gpspi/esp32c6/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_clock/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_clock/esp32c6/include"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_mspi/include"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_mspi/esp32c6/include"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_blockdev/include"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/spi_flash/include"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_bootloader_format/include"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_app_format/include"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/bootloader/subproject/components/micro-ecc"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/bootloader/subproject/components/micro-ecc/micro-ecc"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_timg/include"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_timg/esp32c6/include"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_wdt/include"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_wdt/esp32c6/include"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_rtc_timer/include"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_rtc_timer/esp32c6/include"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_security/esp32c6/include"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_security/include"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_security/include"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/bootloader_support/include"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/bootloader_support/bootloader_flash/include"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/bootloader_support/private_include"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/efuse/include"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/efuse/esp32c6/include"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_systimer/include"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_hal_systimer/esp32c6/include"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_system/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 52,
+			"id" : "_project_elf_src::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "__idf_hal::@41c1a00f56cd1e9ede18"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "__idf_main::@7368607ed66887415643"
+		}
+	],
+	"id" : "bootloader.elf::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "@\"C:/Users/prath/OneDrive/Documents/GitHub/ECE3011/ECE-3011_TeamB05-Buzzcar/.pio/build/esp32-c6-devkitm-1/bootloader/toolchain/cflags\"",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "@\"C:/Users/prath/OneDrive/Documents/GitHub/ECE3011/ECE-3011_TeamB05-Buzzcar/.pio/build/esp32-c6-devkitm-1/bootloader/toolchain/ldflags\"",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-Wl,--cref",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-Wl,--defsym=IDF_TARGET_ESP32C6=0",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "-Wl,--Map=C:/Users/prath/OneDrive/Documents/GitHub/ECE3011/ECE-3011_TeamB05-Buzzcar/.pio/build/esp32-c6-devkitm-1/bootloader/bootloader.map",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "-Wl,--no-warn-rwx-segments",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "-Wl,--orphan-handling=error",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "-fno-lto",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "-Wl,--gc-sections",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "-Wl,--warn-common",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp32c6.rom.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp32c6.rom.api.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp32c6.rom.rvfp.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp32c6.rom.version.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp32c6.rom.libc.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp32c6.rom.libc-suboptimal_for_misaligned_mem.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "rom.api.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp32c6.peripherals.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "rom.wdt.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "rom.systimer.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "bootloader.memory.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "-T",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "bootloader.sections.ld",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-LC:\\Users\\prath\\.platformio\\packages\\framework-espidf\\components\\esp_rom\\esp32c6\\ld",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-LC:\\Users\\prath\\.platformio\\packages\\framework-espidf\\components\\riscv\\ld",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-LC:\\Users\\prath\\.platformio\\packages\\framework-espidf\\components\\soc\\esp32c6\\ld",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-LC:\\Users\\prath\\.platformio\\packages\\framework-espidf\\components\\esp_hal_wdt\\esp32c6",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "-LC:\\Users\\prath\\.platformio\\packages\\framework-espidf\\components\\esp_hal_systimer\\esp32c6",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "-LC:\\Users\\prath\\OneDrive\\Documents\\GitHub\\ECE3011\\ECE-3011_TeamB05-Buzzcar\\.pio\\build\\esp32-c6-devkitm-1\\bootloader\\ld",
+				"role" : "libraryPath"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp-idf\\hal\\libhal.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "esp-idf\\riscv\\libriscv.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "esp-idf\\soc\\libsoc.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "esp-idf\\esp_hal_gpio\\libesp_hal_gpio.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "esp-idf\\esp_hal_usb\\libesp_hal_usb.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "esp-idf\\esp_hal_pmu\\libesp_hal_pmu.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "esp-idf\\esp_hal_regi2c\\libesp_hal_regi2c.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "esp-idf\\esp_hal_uart\\libesp_hal_uart.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "esp-idf\\esp_hal_dma\\libesp_hal_dma.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "esp-idf\\esp_hal_gpspi\\libesp_hal_gpspi.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "esp-idf\\esp_hal_clock\\libesp_hal_clock.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "esp-idf\\esp_hal_mspi\\libesp_hal_mspi.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "esp-idf\\spi_flash\\libspi_flash.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "esp-idf\\esp_bootloader_format\\libesp_bootloader_format.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "esp-idf\\micro-ecc\\libmicro-ecc.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "esp-idf\\esp_hal_timg\\libesp_hal_timg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "esp-idf\\esp_hal_wdt\\libesp_hal_wdt.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 28,
+				"fragment" : "esp-idf\\esp_hal_ana_conv\\libesp_hal_ana_conv.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "esp-idf\\esp_security\\libesp_security.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "esp-idf\\bootloader_support\\libbootloader_support.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "esp-idf\\efuse\\libefuse.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "esp-idf\\esp_hal_systimer\\libesp_hal_systimer.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "esp-idf\\esp_system\\libesp_system.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "esp-idf\\esp_hw_support\\libesp_hw_support.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 35,
+				"fragment" : "esp-idf\\esp_common\\libesp_common.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 36,
+				"fragment" : "esp-idf\\esp_rom\\libesp_rom.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "esp-idf\\log\\liblog.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "esp-idf\\main\\libmain.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp-idf\\hal\\libhal.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "esp-idf\\riscv\\libriscv.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "esp-idf\\soc\\libsoc.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "esp-idf\\esp_hal_gpio\\libesp_hal_gpio.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "esp-idf\\esp_hal_usb\\libesp_hal_usb.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "esp-idf\\esp_hal_pmu\\libesp_hal_pmu.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "esp-idf\\esp_hal_regi2c\\libesp_hal_regi2c.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "esp-idf\\esp_hal_uart\\libesp_hal_uart.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "esp-idf\\esp_hal_dma\\libesp_hal_dma.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "esp-idf\\esp_hal_gpspi\\libesp_hal_gpspi.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "esp-idf\\esp_hal_clock\\libesp_hal_clock.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "esp-idf\\esp_hal_mspi\\libesp_hal_mspi.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "esp-idf\\spi_flash\\libspi_flash.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "esp-idf\\esp_bootloader_format\\libesp_bootloader_format.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "esp-idf\\micro-ecc\\libmicro-ecc.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "esp-idf\\esp_hal_timg\\libesp_hal_timg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "esp-idf\\esp_hal_wdt\\libesp_hal_wdt.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 28,
+				"fragment" : "esp-idf\\esp_hal_ana_conv\\libesp_hal_ana_conv.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "esp-idf\\esp_security\\libesp_security.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "esp-idf\\bootloader_support\\libbootloader_support.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "esp-idf\\efuse\\libefuse.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "esp-idf\\esp_hal_systimer\\libesp_hal_systimer.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "esp-idf\\esp_system\\libesp_system.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "esp-idf\\esp_hw_support\\libesp_hw_support.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 35,
+				"fragment" : "esp-idf\\esp_common\\libesp_common.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 36,
+				"fragment" : "esp-idf\\esp_rom\\libesp_rom.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "esp-idf\\log\\liblog.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp-idf\\hal\\libhal.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "esp-idf\\riscv\\libriscv.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "esp-idf\\soc\\libsoc.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "esp-idf\\esp_hal_gpio\\libesp_hal_gpio.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "esp-idf\\esp_hal_usb\\libesp_hal_usb.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "esp-idf\\esp_hal_pmu\\libesp_hal_pmu.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "esp-idf\\esp_hal_regi2c\\libesp_hal_regi2c.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "esp-idf\\esp_hal_uart\\libesp_hal_uart.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "esp-idf\\esp_hal_dma\\libesp_hal_dma.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "esp-idf\\esp_hal_gpspi\\libesp_hal_gpspi.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "esp-idf\\esp_hal_clock\\libesp_hal_clock.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "esp-idf\\esp_hal_mspi\\libesp_hal_mspi.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "esp-idf\\spi_flash\\libspi_flash.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "esp-idf\\esp_bootloader_format\\libesp_bootloader_format.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "esp-idf\\micro-ecc\\libmicro-ecc.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "esp-idf\\esp_hal_timg\\libesp_hal_timg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "esp-idf\\esp_hal_wdt\\libesp_hal_wdt.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 28,
+				"fragment" : "esp-idf\\esp_hal_ana_conv\\libesp_hal_ana_conv.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "esp-idf\\esp_security\\libesp_security.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "esp-idf\\bootloader_support\\libbootloader_support.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "esp-idf\\efuse\\libefuse.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "esp-idf\\esp_hal_systimer\\libesp_hal_systimer.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "esp-idf\\esp_system\\libesp_system.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "esp-idf\\esp_hw_support\\libesp_hw_support.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 35,
+				"fragment" : "esp-idf\\esp_common\\libesp_common.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 36,
+				"fragment" : "esp-idf\\esp_rom\\libesp_rom.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "esp-idf\\log\\liblog.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp-idf\\hal\\libhal.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "esp-idf\\riscv\\libriscv.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "esp-idf\\soc\\libsoc.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "esp-idf\\esp_hal_gpio\\libesp_hal_gpio.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "esp-idf\\esp_hal_usb\\libesp_hal_usb.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "esp-idf\\esp_hal_pmu\\libesp_hal_pmu.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "esp-idf\\esp_hal_regi2c\\libesp_hal_regi2c.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "esp-idf\\esp_hal_uart\\libesp_hal_uart.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "esp-idf\\esp_hal_dma\\libesp_hal_dma.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "esp-idf\\esp_hal_gpspi\\libesp_hal_gpspi.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "esp-idf\\esp_hal_clock\\libesp_hal_clock.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "esp-idf\\esp_hal_mspi\\libesp_hal_mspi.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "esp-idf\\spi_flash\\libspi_flash.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "esp-idf\\esp_bootloader_format\\libesp_bootloader_format.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "esp-idf\\micro-ecc\\libmicro-ecc.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "esp-idf\\esp_hal_timg\\libesp_hal_timg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "esp-idf\\esp_hal_wdt\\libesp_hal_wdt.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 28,
+				"fragment" : "esp-idf\\esp_hal_ana_conv\\libesp_hal_ana_conv.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "esp-idf\\esp_security\\libesp_security.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "esp-idf\\bootloader_support\\libbootloader_support.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "esp-idf\\efuse\\libefuse.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "esp-idf\\esp_hal_systimer\\libesp_hal_systimer.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "esp-idf\\esp_system\\libesp_system.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "esp-idf\\esp_hw_support\\libesp_hw_support.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 35,
+				"fragment" : "esp-idf\\esp_common\\libesp_common.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 36,
+				"fragment" : "esp-idf\\esp_rom\\libesp_rom.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "esp-idf\\log\\liblog.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "esp-idf\\hal\\libhal.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 12,
+				"fragment" : "esp-idf\\riscv\\libriscv.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "esp-idf\\soc\\libsoc.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "esp-idf\\esp_hal_gpio\\libesp_hal_gpio.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 15,
+				"fragment" : "esp-idf\\esp_hal_usb\\libesp_hal_usb.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "esp-idf\\esp_hal_pmu\\libesp_hal_pmu.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 17,
+				"fragment" : "esp-idf\\esp_hal_regi2c\\libesp_hal_regi2c.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 18,
+				"fragment" : "esp-idf\\esp_hal_uart\\libesp_hal_uart.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 19,
+				"fragment" : "esp-idf\\esp_hal_dma\\libesp_hal_dma.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 20,
+				"fragment" : "esp-idf\\esp_hal_gpspi\\libesp_hal_gpspi.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 21,
+				"fragment" : "esp-idf\\esp_hal_clock\\libesp_hal_clock.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "esp-idf\\esp_hal_mspi\\libesp_hal_mspi.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 23,
+				"fragment" : "esp-idf\\spi_flash\\libspi_flash.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 24,
+				"fragment" : "esp-idf\\esp_bootloader_format\\libesp_bootloader_format.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "esp-idf\\micro-ecc\\libmicro-ecc.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 26,
+				"fragment" : "esp-idf\\esp_hal_timg\\libesp_hal_timg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 27,
+				"fragment" : "esp-idf\\esp_hal_wdt\\libesp_hal_wdt.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 28,
+				"fragment" : "esp-idf\\esp_hal_ana_conv\\libesp_hal_ana_conv.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 29,
+				"fragment" : "esp-idf\\esp_security\\libesp_security.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "esp-idf\\bootloader_support\\libbootloader_support.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "esp-idf\\efuse\\libefuse.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "esp-idf\\esp_hal_systimer\\libesp_hal_systimer.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 33,
+				"fragment" : "esp-idf\\esp_system\\libesp_system.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "esp-idf\\esp_hw_support\\libesp_hw_support.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 35,
+				"fragment" : "esp-idf\\esp_common\\libesp_common.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 36,
+				"fragment" : "esp-idf\\esp_rom\\libesp_rom.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "esp-idf\\log\\liblog.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 39,
+				"fragment" : "-u __assert_func",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 41,
+				"fragment" : "-u esp_bootloader_desc",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 43,
+				"fragment" : "-u abort",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 45,
+				"fragment" : "-u __ubsan_include",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 46,
+				"fragment" : "-u esp_system_include_startup_funcs",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 48,
+				"fragment" : "-u esp_sleep_gpio_include",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 49,
+				"fragment" : "-u sleep_system_peripheral_dummy",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 51,
+				"fragment" : "-u bootloader_hooks_include",
+				"role" : "libraries"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "bootloader.elf",
+	"nameOnDisk" : "bootloader.elf",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/prath/OneDrive/Documents/GitHub/ECE3011/ECE-3011_TeamB05-Buzzcar/.pio/build/esp32-c6-devkitm-1/bootloader/project_elf_src_esp32c6.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/prath/OneDrive/Documents/GitHub/ECE3011/ECE-3011_TeamB05-Buzzcar/.pio/build/esp32-c6-devkitm-1/bootloader/project_elf_src_esp32c6.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

@@ -1,0 +1,93 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"preprocess_linker_file",
+			"target_linker_script"
+		],
+		"files" : 
+		[
+			"C:/Users/prath/.platformio/packages/framework-espidf/tools/cmake/utilities.cmake",
+			"C:/Users/prath/.platformio/packages/framework-espidf/components/esp_system/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 117,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 263,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 232,
+				"parent" : 2
+			}
+		]
+	},
+	"id" : "memory_ld_in_preprocess::@874df54e61e20112dfd4",
+	"name" : "memory_ld_in_preprocess",
+	"paths" : 
+	{
+		"build" : "esp-idf/esp_system",
+		"source" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_system"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 3,
+			"isGenerated" : true,
+			"path" : ".pio/build/esp32-c6-devkitm-1/esp-idf/esp_system/CMakeFiles/memory_ld_in_preprocess",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : ".pio/build/esp32-c6-devkitm-1/esp-idf/esp_system/CMakeFiles/memory_ld_in_preprocess.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"path" : "C:/Users/prath/.platformio/packages/framework-espidf/components/esp_system/ld/esp32c6/memory.ld.in",
+			"sourceGroupIndex" : 2
+		}
+	],
+	"type" : "UTILITY"
+}

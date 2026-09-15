@@ -1,0 +1,59 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"C:/Users/prath/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/include/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 35,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"C:/Users/prath/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/include/."
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include/psa",
+			"paths" : 
+			[
+				"C:/Users/prath/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/include/psa/crypto_config.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "esp-idf/mbedtls/mbedtls/tf-psa-crypto/include",
+		"source" : "C:/Users/prath/.platformio/packages/framework-espidf/components/mbedtls/mbedtls/tf-psa-crypto/include"
+	}
+}

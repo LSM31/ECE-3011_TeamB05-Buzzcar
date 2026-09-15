@@ -1,0 +1,2 @@
+"-specs=C:/Users/prath/OneDrive/Documents/GitHub/ECE3011/ECE-3011_TeamB05-Buzzcar/.pio/build/esp32-c6-devkitm-1/bootloader/specs/picolibc.specs"
+-march=rv32imac_zicsr_zifencei_zaamo_zalrsc
